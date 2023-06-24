@@ -1,6 +1,6 @@
 // 头部进度条
 import 'nprogress/nprogress.css'
-import NProgress from 'nprogress'
+import NProgress from 'NProgress'
 import { userAgent } from 'utils/helpers'
 import { getCurrentPage } from 'utils/cnblog'
 import { topProgressConfig } from 'options/plugins'

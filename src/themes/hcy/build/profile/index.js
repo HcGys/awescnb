@@ -139,7 +139,7 @@ function followAndUnfollow() {
 }
 
 function insertMessage() {
-    const { blogName } = getThemeOptions()
+	const { blogName } = getThemeOptions()
     const followState = getFollowState()
     const userName = blogName === '' ? getBlogname() : blogName
     const age = getBlogAge()
