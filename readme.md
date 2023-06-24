@@ -84,3 +84,15 @@
 ### 捐赠
 
 感谢支持，本项目不接受捐赠。
+
+### 补充
+```sh
+# 安装包
+npm install --legacy-peer-deps
+# 设置环境 nodejs新版本bug
+export NODE_OPTIONS=--openssl-legacy-provider
+# 测试
+npm start
+# 生成主题js文件
+npm run build
+```

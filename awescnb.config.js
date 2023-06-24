@@ -1,5 +1,5 @@
 module.exports = {
-    themeName: 'reacg',
+    themeName: 'hcy',
     eslint: true,
     openBrowser: true,
     openAnalyzer: false,

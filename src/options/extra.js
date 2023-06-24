@@ -11,6 +11,7 @@ export function getThemeOptions(devOptions) {
     const defaultOptions = {
         name: 'reacg',
         color: '#FFB3CC',
+        blogName: '',
         title: '',
         avatar: '',
         favicon: '',
