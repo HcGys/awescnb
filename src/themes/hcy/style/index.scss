@@ -934,12 +934,16 @@ h1.PostListTitle + .pager,
     box-shadow: 0 0 5px rgba(0, 0, 0, .2);
 }
 
+.profile-menu {
+    overflow: hidden;
+}
+
 .profile {
     border-radius: 8px;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
 }
 
-#topics,
+#post_detail,
 #blog-comments-placeholder {
     margin: 10px 0;
     border-radius: 8px;
@@ -970,7 +974,8 @@ div[class^="c_ad"] {
 }
 
 .player {
-    overflow: hidden;
+    overflow: hidden !important;
+    border-radius: 5px;
 }
 
 .feedbackCon .blog_comment_body {
