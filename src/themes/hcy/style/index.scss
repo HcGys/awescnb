@@ -977,7 +977,14 @@ h1.PostListTitle+.pager,
 .profile {
     border-radius: 8px;
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-    overflow: hidden;
+}
+
+.profile-banner {
+    border-radius: 8px 8px 0 0;
+}
+
+.profile-menu {
+    border-radius: 0 0 8px 8px;
 }
 
 #post_detail,
