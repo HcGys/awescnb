@@ -1,0 +1,261 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5833464",
+      "name": "shape-52",
+      "font_class": "shape-",
+      "unicode": "e7be",
+      "unicode_decimal": 59326
+    },
+    {
+      "icon_id": "13769960",
+      "name": "工作台",
+      "font_class": "gongzuotai",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "13769971",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "13769975",
+      "name": "设置",
+      "font_class": "shezhi",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "14349586",
+      "name": "nav_系统主页",
+      "font_class": "nav_xitongzhuye",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
+      "icon_id": "20734874",
+      "name": "日历",
+      "font_class": "rili",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "22806236",
+      "name": "资源监控",
+      "font_class": "ziyuanjiankong",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "22806244",
+      "name": "资源管理",
+      "font_class": "ziyuanguanli",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "23318018",
+      "name": "Crossing Swords",
+      "font_class": "a-CrossingSwords",
+      "unicode": "e969",
+      "unicode_decimal": 59753
+    },
+    {
+      "icon_id": "24891852",
+      "name": "Angry-Birds 2",
+      "font_class": "a-Angry-Birds2",
+      "unicode": "e88b",
+      "unicode_decimal": 59531
+    },
+    {
+      "icon_id": "24891863",
+      "name": "Pikachu",
+      "font_class": "Pikachu",
+      "unicode": "e88d",
+      "unicode_decimal": 59533
+    },
+    {
+      "icon_id": "24891903",
+      "name": "Pokemon",
+      "font_class": "Pokemon",
+      "unicode": "e890",
+      "unicode_decimal": 59536
+    },
+    {
+      "icon_id": "24891907",
+      "name": "Mario-Mushroom",
+      "font_class": "Mario-Mushroom",
+      "unicode": "e88f",
+      "unicode_decimal": 59535
+    },
+    {
+      "icon_id": "24891910",
+      "name": "Pikachu",
+      "font_class": "Pikachu1",
+      "unicode": "e891",
+      "unicode_decimal": 59537
+    },
+    {
+      "icon_id": "36103500",
+      "name": "人员编辑",
+      "font_class": "a-xingzhuang4",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "36103501",
+      "name": "个人中心",
+      "font_class": "a-xingzhuang10",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "36103502",
+      "name": "组织",
+      "font_class": "a-xingzhuang6",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "36103503",
+      "name": "人员信息",
+      "font_class": "a-xingzhuang5",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "36103504",
+      "name": "流动人员",
+      "font_class": "a-xingzhuang13",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "36103505",
+      "name": "待办中",
+      "font_class": "a-xingzhuang12",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "36103506",
+      "name": "扫描",
+      "font_class": "a-xingzhuang9",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "36103507",
+      "name": "人员删减",
+      "font_class": "a-xingzhuangbeifen10",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "36103508",
+      "name": "群众",
+      "font_class": "a-xingzhuang7",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "36103509",
+      "name": "离线人员",
+      "font_class": "a-xingzhuang15",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "36103510",
+      "name": "人员",
+      "font_class": "renyuan",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "36103511",
+      "name": "关联人员",
+      "font_class": "xingzhuang",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "36103512",
+      "name": "人流趋势",
+      "font_class": "a-xingzhuang11",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "36103513",
+      "name": "人脸识别",
+      "font_class": "a-xingzhuang8",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "36103514",
+      "name": "待审批",
+      "font_class": "a-xingzhuangbeifen8",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "36103515",
+      "name": "危险人员",
+      "font_class": "a-xingzhuang14",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "36103516",
+      "name": "完工、合格",
+      "font_class": "a-xingzhuangbeifen9",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "36103517",
+      "name": "AI智能",
+      "font_class": "a-xingzhuang18",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "36103519",
+      "name": "人工智能",
+      "font_class": "a-xingzhuangbeifen11",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "36103520",
+      "name": "人员设置",
+      "font_class": "a-xingzhuang16",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "36103521",
+      "name": "老人、残疾",
+      "font_class": "a-xingzhuang19",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "36164722",
+      "name": "管理员、锁定",
+      "font_class": "a-xingzhuang2-copy",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    }
+  ]
+}

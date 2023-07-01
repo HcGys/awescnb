@@ -1,0 +1,157 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('iconfont.ttf?t=1687938967008') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shape-:before {
+  content: "\e7be";
+}
+
+.icon-gongzuotai:before {
+  content: "\e60b";
+}
+
+.icon-sousuo:before {
+  content: "\e60d";
+}
+
+.icon-shezhi:before {
+  content: "\e60c";
+}
+
+.icon-nav_xitongzhuye:before {
+  content: "\e748";
+}
+
+.icon-rili:before {
+  content: "\e6ab";
+}
+
+.icon-ziyuanjiankong:before {
+  content: "\e60e";
+}
+
+.icon-ziyuanguanli:before {
+  content: "\e60f";
+}
+
+.icon-a-CrossingSwords:before {
+  content: "\e969";
+}
+
+.icon-a-Angry-Birds2:before {
+  content: "\e88b";
+}
+
+.icon-Pikachu:before {
+  content: "\e88d";
+}
+
+.icon-Pokemon:before {
+  content: "\e890";
+}
+
+.icon-Mario-Mushroom:before {
+  content: "\e88f";
+}
+
+.icon-Pikachu1:before {
+  content: "\e891";
+}
+
+.icon-a-xingzhuang4:before {
+  content: "\e62a";
+}
+
+.icon-a-xingzhuang10:before {
+  content: "\e62b";
+}
+
+.icon-a-xingzhuang6:before {
+  content: "\e62c";
+}
+
+.icon-a-xingzhuang5:before {
+  content: "\e62d";
+}
+
+.icon-a-xingzhuang13:before {
+  content: "\e62e";
+}
+
+.icon-a-xingzhuang12:before {
+  content: "\e62f";
+}
+
+.icon-a-xingzhuang9:before {
+  content: "\e630";
+}
+
+.icon-a-xingzhuangbeifen10:before {
+  content: "\e631";
+}
+
+.icon-a-xingzhuang7:before {
+  content: "\e632";
+}
+
+.icon-a-xingzhuang15:before {
+  content: "\e633";
+}
+
+.icon-renyuan:before {
+  content: "\e634";
+}
+
+.icon-xingzhuang:before {
+  content: "\e635";
+}
+
+.icon-a-xingzhuang11:before {
+  content: "\e636";
+}
+
+.icon-a-xingzhuang8:before {
+  content: "\e637";
+}
+
+.icon-a-xingzhuangbeifen8:before {
+  content: "\e638";
+}
+
+.icon-a-xingzhuang14:before {
+  content: "\e639";
+}
+
+.icon-a-xingzhuangbeifen9:before {
+  content: "\e63a";
+}
+
+.icon-a-xingzhuang18:before {
+  content: "\e63b";
+}
+
+.icon-a-xingzhuangbeifen11:before {
+  content: "\e63c";
+}
+
+.icon-a-xingzhuang16:before {
+  content: "\e63d";
+}
+
+.icon-a-xingzhuang19:before {
+  content: "\e63e";
+}
+
+.icon-a-xingzhuang2-copy:before {
+  content: "\e63f";
+}
+
